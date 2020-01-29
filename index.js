@@ -1,1 +1,1 @@
-setInterval(() => {console.log('fuck you Moradi')}, 1000);
+setInterval(() => {}, 1000);
